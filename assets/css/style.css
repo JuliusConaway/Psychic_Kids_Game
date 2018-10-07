@@ -1,0 +1,62 @@
+body {
+    background-image: url(../images/Chilling.jpg);
+    background-size: auto 600px;
+    
+}
+.container {
+   
+   background-size:auto auto;
+   
+   color: rgb(19, 107, 41);
+   font-size: 20px;
+}
+  #text {
+      background-color: aqua;
+  }  
+  
+h1 {
+    font-family: 'comic sans ms';
+    font-size: 55px;
+    line-height: 50px;
+    background-color: aqua;
+
+}
+h3{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 25px;
+    color: rgb(19, 107, 41);
+   
+    }
+    #wins {
+        font-family: 'Times New Roman', Times, serif;
+    font-size: 30px;
+    color: rgb(19, 107, 41);
+    background-color: aqua;
+   
+    }
+    #losses {
+        font-family: 'Times New Roman', Times, serif;
+    font-size: 30px;
+    color: rgb(19, 107, 41);
+    background-color: aqua;
+   
+    }
+    #targetNumber {
+        font-family: 'Times New Roman', Times, serif;
+    font-size: 30px;
+    color: rgb(19, 107, 41);
+    background-color: aqua;
+   
+    }
+    #randomButtonD {
+        margin-inline-start: 90px;
+    }
+
+    #totalScore {
+        font-family: 'Times New Roman', Times, serif;
+        font-size: 30px;
+        color: rgb(19, 107, 41);
+        background-color: aqua;
+        margin-inline-start: 305px;
+    }
+    
