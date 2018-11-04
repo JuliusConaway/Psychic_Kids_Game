@@ -27,3 +27,4 @@ The random number shown at the start of the game should be between 19 - 120.
 
 Each crystal should have a random hidden value between 1 - 12.
 
+I Used css and javascript to dynamically generate a random number first and fore most. Then had a random number generated for each "Pyschic Kid". If the target number wasn't exceeded I the losses score went up one using and when the number was matched the wins score went up one both alerting different messages. I was able to do all this using javascript functions.
